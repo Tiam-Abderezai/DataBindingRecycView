@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">DataBindingJava</string>
+    <string-array name="names">
+    <item>Sabine Becker</item>
+    <item>Natascha Zimmermann</item>
+    <item>Hans Schmidt</item>
+    <item>Cem Suleiman</item>
+    <item>Ingrid Schneider</item>
+    <item>Johannes W. Goethe</item>
+    <item>Alex Ritter</item>
+    </string-array>
+
+    <string-array name = "emails">
+        <item>s.becker@email.com</item>
+        <item>n.zimmermann@email.com</item>
+        <item>h.schmidt@email.com</item>
+        <item>c.suleiman@email.com</item>
+        <item>I.schneider@email.com</item>
+        <item>j.goethe@email.com</item>
+        <item>a.ritter@email.com</item>
+    </string-array>
+
 </resources>
